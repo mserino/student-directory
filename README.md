@@ -1,10 +1,10 @@
-First level header
-==================
-Second level
-------------------
+Student Directory
+=================
+The student directory script allows you to manage the list of students enrolled on the course at Makers Academy.
 
-1. This is one
-2. This is two
+How to use
+----------
 
-- Bla bla
-- Bla bla
+``` shell
+ruby directory.rb
+```
