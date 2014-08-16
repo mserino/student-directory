@@ -15,4 +15,3 @@ The first project created on week #1 of [Makers Academy](http://www.makersacadem
 
 ``` shell
 ruby directory.rb
-``
