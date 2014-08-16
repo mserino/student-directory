@@ -1,9 +1,17 @@
 Student Directory
 =================
-The student directory script allows you to manage the list of students enrolled on the course at Makers Academy.
+The first project created on week #1 of [Makers Academy](http://www.makersacademy.com)
 
-How to use
-----------
+## What it does?
+- Add students
+- Show the list of students
+- Save the list to a CSV file
+- Load the CSV file on the program and add other students
+
+## Technologies
+- Ruby
+
+## How to use it
 
 ``` shell
 ruby directory.rb
